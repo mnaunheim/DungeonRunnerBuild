@@ -6,5 +6,3 @@ To install, download zip, unzip, and run the installer Setup.exe.
 
 ## Uninstall
 To uninstall, follow the same steps as any other applications through the 'Add or Remove Programs' section under windows.
-
-Trying to edit
